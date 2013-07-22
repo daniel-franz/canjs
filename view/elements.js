@@ -1,4 +1,3 @@
-
 steal(function(){
 	/**
 	 * @typedef {{}} can/view/elements.js
@@ -32,7 +31,8 @@ steal(function(){
 			"checked": true,
 			"disabled": true,
 			"readonly": true,
-			"required": true
+			"required": true,
+			"selected": true
 		},
 		// elements whos default value we should set
 		defaultValue : ["input","textarea"],
